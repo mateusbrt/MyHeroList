@@ -1,0 +1,20 @@
+<mat-card class="mhl--hero-card">
+  <mat-card-header>
+    <img mat-card-avatar [src]="hero.imagem" [alt]="'Imagem do' + hero.nome" />
+    <mat-card-title>{{ hero.nome }}</mat-card-title>
+    <mat-card-subtitle>{{ hero.identidadeSecreta }}</mat-card-subtitle>
+  </mat-card-header>
+  <div class="mhl--hero-card-image">
+    <img
+      mat-card-image
+      [src]="hero.imagem"
+      class="mhl--card-image"
+      [alt]="'Imagem do' + hero.nome"
+    />
+  </div>
+  <mat-card-content>
+    <p>
+      {{ hero.descricao }}
+    </p>
+  </mat-card-content>
+</mat-card>

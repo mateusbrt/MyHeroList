@@ -1,0 +1,37 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "nome": "Super-Homem",
+      "identidadeSecreta": "Clark Kent",
+      "poderes": [
+        "Super Força",
+        "Visão de Raio X",
+        "Muitos outros"
+      ],
+      "descricao": "Super-homem é um herói de Krypton, mas veio para terra quando criança. Suas origens alienigenas fazem ele ser um herói extremamente apelão e imbatível.",
+      "imagem": "https://newsfreaknweirdnfunny.com/wp-content/uploads/2018/12/bvs-cavill-superman-poster-1280jpg-19d42e_1280w.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "All Might",
+      "identidadeSecreta": "Toshinori Yagi",
+      "poderes": [
+        "One For All"
+      ],
+      "descricao": "All Might é o antigo Pro Hero No. 1 que teve o título de Símbolo da Paz. Ele ensina Estudos Fundamentais dos Heróis na U.A. High.",
+      "imagem": "https://www.geek.com/wp-content/uploads/2018/06/my-hero-625x351.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Capitão América",
+      "identidadeSecreta": "Steve Rogers",
+      "poderes": [
+        "Cura Rápida",
+        "Atributos Físicos Sobrehumanos"
+      ],
+      "descricao": "Durante os dias sombrios do início da década de 1940, uma experiência militar secreta dos EUA transformou Steve Rogers no primeiro super-soldado Americano, o Capitão América.",
+      "imagem": "https://cdn.ome.lt/f5cVq94XRkPtgjxRIaQV1ZLpIWM=/570x0/smart/uploads/conteudo/fotos/1_0IfZmN8.jpg"
+    }
+  ]
+}

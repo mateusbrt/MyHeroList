@@ -1,0 +1,8 @@
+<div class="container">
+  <button mat-raised-button class="mt-2" color="primary" (click)="abrirModal()">Adicionar Herói</button>
+  <div class="row" *ngFor="let row of rows">
+    <div class="col-md-6" *ngFor="let hero of row">
+      <mhl-hero [hero]="hero"></mhl-hero>
+    </div>
+  </div>
+</div>
